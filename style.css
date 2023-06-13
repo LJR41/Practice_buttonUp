@@ -1,0 +1,30 @@
+.container {
+
+    margin-left: 50px
+}
+
+.search {
+    border: 2px solid rgb(4, 151, 102);
+    /* got help on making the pill shape from w3schools */
+    border-radius: 16px; 
+    width: 100px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.plus {
+    background-color: rgb(0, 143, 107);
+    border-radius: 50%;
+    color: white;
+    border-color: rgb(0, 143, 107);
+}
+
+.Create{
+    border: 2px solid black;
+    padding: 5px 25px;
+    background-color: rgb(96, 136, 247);
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    /* used box-shadow link from Platform */
+    margin-top: 10px
+}
